@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "react-hot-loader/babel",
+    "transform-decorators-legacy",
+    "transform-object-assign",
+    [ "antd", {"style": true}]
+  ],
+  "presets": ["es2015", "stage-0", "react"]
+}
